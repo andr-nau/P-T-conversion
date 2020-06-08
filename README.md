@@ -1,4 +1,4 @@
-# dTdP_recalc
+# P-T-conversion
 Finding of conversion formula for recalculation of probability (P) into the temperature (T).
 
 As an input, there are set of measured s-type curves for different temperatures (e.g. 350mK - 800K each 5mK)
